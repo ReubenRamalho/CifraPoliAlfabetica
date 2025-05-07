@@ -1,10 +1,6 @@
-# 🔐 Cifra Monoalfabética em Haskell
 
-Este projeto implementa uma cifra monoalfabética simples com suporte a conversão de letras para minúsculas.
 
----
-
-## 🔄 Como funciona a criptografia
+## 🔄 Como funciona a criptografia MonoAlpha
 
 A função `monoAlphaCipherE` realiza a **criptografia** de uma string com base em uma **chave** de 26 letras minúsculas e sem repetição, representando o alfabeto embaralhado.
 
